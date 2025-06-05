@@ -1,5 +1,5 @@
 # Animal Information
- 
+
 ## A cat 
 
 This is the cat that rules the house!
@@ -8,3 +8,12 @@ This is the cat that rules the house!
 
 Its name is socks.
 
+## A dog 
+
+Isn't this the cutest dog!
+
+![A cartoon of a dog](../dog.png)
+
+Its name is Rover
+
+ 
